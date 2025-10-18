@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(135deg, #f5f7fa, #c3cfe2);
+    min-height: 100vh;
+}
+
+.navbar {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.card {
+    border-radius: 12px;
+}
+
+.list-group-item {
+    border-radius: 8px;
+    margin-bottom: 8px;
+}
